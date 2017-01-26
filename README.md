@@ -1,2 +1,2 @@
 # Kaggle-DR
-An attempt at achieving 100% accuracy in Kaggle's Digit Recognizer practice competition
+Kaggle's Digit Recognizer practice competition - Application of different techniques to correctly label images of handwritten digits (MNIST)  
